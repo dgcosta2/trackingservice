@@ -3,6 +3,7 @@ package edu.iu.c322.trackingservice.model;
 import java.util.Objects;
 
 public class UpdateRequest {
+
     private int itemId;
     private String status;
 
